@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXTabControl_CreatingManually", "DXTabControl_CreatingManually\DXTabControl_CreatingManually.csproj", "{D3336F66-3608-4E1F-BF68-28C75A10552D}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXTabControl_CreatingManually", "DXTabControl_CreatingManually\DXTabControl_CreatingManually.Net5.csproj", "{D3336F66-3608-4E1F-BF68-28C75A10552D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
